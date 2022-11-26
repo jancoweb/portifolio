@@ -13,7 +13,7 @@ function About() {
           </p>
           <br />
           <p className='about-text'>
-            Fast-foward to 2022, I had the privilege to study at one of the top programming schools, <span className='cubos'>Cubos Academy</span>, where I've had the opportunity to learn and develop web applications.
+            Fast-foward to 2022, I had the opportunity to study at one of the top programming schools, <span className='cubos'>Cubos Academy</span>, where I learned how to build API's using NodeJS with JavaScript and TypeScript, front-end development using ReactJS and how to manipulate Relational Database with PostGresSQL.
           </p>
           <br />
           <p className='about-text'>

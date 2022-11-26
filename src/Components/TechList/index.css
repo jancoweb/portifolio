@@ -1,0 +1,15 @@
+.tech-list {
+  background-color: rgba(212, 216, 240, 0.8);
+  border-radius: 4px;
+  padding: 20px 10px;
+  display: flex;
+}
+.tech-list ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+.tech-list img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
