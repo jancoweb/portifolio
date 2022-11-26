@@ -38,7 +38,7 @@ a.resume:hover {
   background-color: rgba(238, 187, 195, 0.2);
 }
 
-@media (max-width: 400px){
+@media (max-width: 500px){
   .hero-wrapper{
     height: 50vh;
     margin: 0 20px;
