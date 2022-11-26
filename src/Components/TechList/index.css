@@ -3,6 +3,7 @@
   border-radius: 4px;
   padding: 20px 10px;
   display: flex;
+  margin-bottom: 20px;
 }
 .tech-list ul {
   display: flex;
@@ -12,4 +13,9 @@
 .tech-list img:hover {
   cursor: pointer;
   transform: scale(1.1);
+}
+@media(max-width: 400px) {
+  .tech-list ul {
+    flex-wrap: wrap;
+  }
 }

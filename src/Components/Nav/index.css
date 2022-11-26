@@ -44,3 +44,12 @@ li.resume:hover{
 span.nav-item-index {
   color: #eebbc3;
 }
+
+@media (max-width: 400px){
+  .resume, ul.nav-item-wrapper {
+    display: none;
+  }
+  h2.logo {
+    margin-top: 20px;
+  }
+}
