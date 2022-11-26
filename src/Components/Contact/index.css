@@ -1,0 +1,30 @@
+.contact-wrapper {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fffffe;
+  height: 500px;
+}
+.contact-wrapper h2 {
+  font-family: 'roboto';
+}
+.contact-list {
+  display: flex;
+  gap: 25px;
+  margin: 50px 0;
+}
+.contact-list a{
+  text-decoration: none;
+  color: #eeccb5;
+}
+.contact-list a img {
+  width: 50px;
+}
+.contact-list a img:hover {
+  transform: scale(1.1);
+}
+.x {
+  font-family: 'roboto';
+}

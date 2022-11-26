@@ -3,7 +3,7 @@ import './index.css'
 function Projects() {
 
   return (
-    <div className='project-wrapper'>
+    <div className='project-wrapper' id='projects'>
       <p className='headline'><span className="nav-item-index">02.</span> Projects</p>
       <div className="project-list">
         <div className="project left">
@@ -42,7 +42,7 @@ function Projects() {
             <img src="https://i.imgur.com/2uUMV7e.png" alt="" />
           </div>
         </div>
-        <p className='git'>You can find more <a href="https://github.com/jancoweb" target='blank'>here</a></p>
+        <p className='git'>You can find more projects on my <a href="https://github.com/jancoweb" target='blank'>GitHub</a></p>
       </div>
     </div>
   )

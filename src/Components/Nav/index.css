@@ -26,7 +26,11 @@ h2.logo:hover {
   color: #eebbc3;
   cursor: cell;
 }
-li.nav-item:hover{
+li.nav-item a{
+ text-decoration: none;
+ color: #fffffe;
+}
+li.nav-item a:hover{
   cursor: pointer;
   color: #eebbc3;
 }

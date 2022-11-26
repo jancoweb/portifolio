@@ -4,7 +4,7 @@ import './index.css'
 function About() {
 
   return (
-    <div className='about-content-wrapper'>
+    <div className='about-content-wrapper' id='about'>
       <div className='about-text-wrapper'>
         <p className='headline'><span className="nav-item-index">01.</span> About me</p>
         <div className='about-text-content'>
