@@ -41,6 +41,6 @@ a.resume:hover {
 @media (max-width: 500px){
   .hero-wrapper{
     height: 50vh;
-    margin: 0 20px;
+    margin: 30px 20px 40px 20px;
   }
 }
