@@ -1,3 +1,4 @@
+import About from "../About"
 import Hero from "../Hero"
 import Nav from "../Nav"
 
@@ -7,6 +8,7 @@ function MainPage() {
       <div className="page-wrapper">
         <Nav />
         <Hero />
+        <About />
       </div>
     </>
   )

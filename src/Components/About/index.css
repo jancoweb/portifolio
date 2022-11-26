@@ -1,0 +1,27 @@
+.about-content-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-text-wrapper{
+  text-align: left;
+}
+p.headline {
+  font-family: 'Fira code';
+  color: #fffffe;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.about-text-content {
+  width: 500px;
+  color: #b8c1ec;
+  text-align: justify;
+}
+p.about-text {
+  font-size: 20px;
+  font-family: 'roboto';
+}
+.cubos {
+  color: #eebbc3;
+}
