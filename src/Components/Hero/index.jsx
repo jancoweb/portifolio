@@ -11,7 +11,7 @@ function Hero() {
           Currently, I'm focused on finding a job.
         </p>
       </div>
-      <a href="" className='resume'>My Resume</a>
+      <a href="https://docs.google.com/document/d/e/2PACX-1vSWfs0RXkfgVtnfzJf2mE6IfOnHNvzCmRSHWRjUtjeDIgDAe5p9LorVuTkwTgqOtB4OimLVqAWceLVz/pub" target='blank' className='resume'>My Resume</a>
     </div>
   )
 }

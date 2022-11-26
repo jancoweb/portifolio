@@ -1,6 +1,7 @@
 import About from "../About"
 import Hero from "../Hero"
 import Nav from "../Nav"
+import Projects from "../Projects"
 
 function MainPage() {
   return (
@@ -9,6 +10,7 @@ function MainPage() {
         <Nav />
         <Hero />
         <About />
+        <Projects />
       </div>
     </>
   )

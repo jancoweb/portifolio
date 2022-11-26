@@ -9,7 +9,7 @@ function Nav() {
         <li className="nav-item"><span className="nav-item-index">01.</span> About</li>
         <li className="nav-item"><span className="nav-item-index">02.</span> Projects</li>
         <li className="nav-item"><span className="nav-item-index">03.</span> Contact me</li>
-        <li className='resume'>Resume</li>
+        <a className='nav-resume' href="https://docs.google.com/document/d/e/2PACX-1vSWfs0RXkfgVtnfzJf2mE6IfOnHNvzCmRSHWRjUtjeDIgDAe5p9LorVuTkwTgqOtB4OimLVqAWceLVz/pub" target='blank'> Resume</a>
       </ul>
     </div>
   )
