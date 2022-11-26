@@ -1,0 +1,39 @@
+.hero-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fffffe;
+  height: 80vh;
+}
+.text-wrapper{
+  text-align: left;
+}
+.text-wrapper p.greeting {
+  font-size: 22px;
+  font-family: 'Fira code';
+  color: #eebbc3;
+}
+.text-wrapper h1 {
+  font-size: 80px;
+  font-family: 'roboto';
+}
+.text-wrapper p.paragraph {
+  font-family: 'roboto';
+  font-size: 28px;
+  color: #b8c1ec;
+}
+
+a.resume {
+  border: none;
+  padding: 12px;
+  border: 1px solid #eebbc3;
+  margin-top: 30px;
+  border-radius: 4px;
+  text-decoration: none;
+  color:#eebbc3;
+  font-family: 'Fira code';
+}
+a.resume:hover {
+  background-color: rgba(238, 187, 195, 0.2);
+}

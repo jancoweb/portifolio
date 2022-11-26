@@ -1,3 +1,4 @@
+import Hero from "../Hero"
 import Nav from "../Nav"
 
 function MainPage() {
@@ -5,6 +6,7 @@ function MainPage() {
     <>
       <div className="page-wrapper">
         <Nav />
+        <Hero />
       </div>
     </>
   )
