@@ -10,7 +10,7 @@ function Projects() {
           <div className='project-text-content'>
             <h2 className='project-title'>Your To Do App</h2>
             <p className='project-text'>
-              A ToDo list with user authentication using ReactJS and NodeJS
+              A ToDo list with user authentication using ReactJS and NodeJS, where each user has its own list storaged in a PostGres database.
             </p>
             <span>React, Node, Javascript, Postgres</span>
             <br />
