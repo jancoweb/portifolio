@@ -3,6 +3,10 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 35px;
+  width: 100%;
+  position: absolute;
+  top: 0%;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 ul.nav-item-wrapper {
   display: flex;
@@ -33,6 +37,7 @@ li.nav-item a{
 li.nav-item a:hover{
   cursor: pointer;
   color: #eebbc3;
+  border-bottom: 1px solid #eebbc3;
 }
 .nav-resume {
   border: 1px solid rgb(238, 187, 195);
@@ -42,7 +47,7 @@ li.nav-item a:hover{
   color: #eebbc3;
 } 
 .nav-resume:hover{
-  background-color: rgba(238, 187, 195, 0.2);
+  background-color: rgba(238, 187, 195, 0.4);
   cursor: pointer;
 }
 
@@ -51,6 +56,11 @@ span.nav-item-index {
 }
 
 @media (max-width: 500px){
+  .nav-bar {
+    /* position: relative; */
+  justify-content: center;
+  padding: 0 10px;
+  }
   ul.nav-item-wrapper {
     display: none;
   }

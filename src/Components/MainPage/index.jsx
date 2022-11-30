@@ -8,7 +8,6 @@ function MainPage() {
   return (
     <>
       <div className="page-wrapper">
-        <Nav />
         <Hero />
         <About />
         <Projects />

@@ -4,7 +4,22 @@
   justify-content: center;
   align-items: center;
   color: #fffffe;
-  height: 90vh;
+  position: relative;
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  isolation: isolate;
+  width: 100%;
+  margin-bottom: 100px;
+}
+.hero-wrapper::before{
+  content: "";;
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: -1;
 }
 .text-wrapper{
   text-align: left;
@@ -40,7 +55,6 @@ a.resume:hover {
 
 @media (max-width: 500px){
   .hero-wrapper{
-    height: 350px;
-    margin: 30px 20px 80px 20px;
+    margin: 0px 20px 80px 20px;
   }
 }
