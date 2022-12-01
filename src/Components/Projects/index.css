@@ -21,6 +21,7 @@
 .project-text-content{
   padding: 25px;
   background-color: rgba(18, 22, 41, 0.4);
+  box-shadow: 3px 3px 30px rgb(0, 0, 0);
   margin-right: 10px;
 }
 .project-title {
