@@ -73,10 +73,12 @@ p span.cubos {
   .project {
     display: flex;
     flex-direction: column;
-    gap: 20px;
   }
   .project-text{
     font-size: 14px;
     width: 350px;
+  }
+  .project-text-content{
+    margin: 0 0 10px 0;
   }
 }
