@@ -54,6 +54,9 @@ a.resume:hover {
 }
 
 @media (max-width: 500px){
+  .text-wrapper h1 {
+    font-size: 67px;
+  }
   .hero-wrapper{
     margin: 0px 20px 80px 20px;
   }
