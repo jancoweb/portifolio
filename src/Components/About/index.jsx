@@ -11,7 +11,7 @@ function About() {
           <div className='content'>
             <div className='text'>
               <p className='about-text'>
-                Hello! My name is João Coelho and I enjoy building things on the internet. Back in 2020, I started to study about programming and its languages, thats how I got introduced in the JavaScript world.
+                Hello! My name is João Coelho and I enjoy building things on the internet. Back in 2020, I started to study about web development on my own.
               </p>
               <br />
               <p className='about-text'>

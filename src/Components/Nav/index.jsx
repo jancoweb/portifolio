@@ -8,7 +8,7 @@ function Nav() {
         <li className="nav-item"><a href="#about"><span className="nav-item-index">01.</span> About</a></li>
         <li className="nav-item"><a href="#projects"><span className="nav-item-index">02.</span> Projects</a></li>
         <li className="nav-item"><a href="#contact"><span className="nav-item-index">03.</span> Contact me</a></li>
-        <a className='nav-resume' href="https://docs.google.com/document/d/e/2PACX-1vSWfs0RXkfgVtnfzJf2mE6IfOnHNvzCmRSHWRjUtjeDIgDAe5p9LorVuTkwTgqOtB4OimLVqAWceLVz/pub" target='blank'> Resume</a>
+        <a className='nav-resume' href="https://docs.google.com/document/d/e/2PACX-1vQ7qCGyFsXCZ7Uyzgv2D056oY1ISsDAb3m8pVCGcQfcE5e_tV-mVYnEyWlqCh4V_bactaMquXUIl0CW/pub" target='blank'> Resume</a>
       </ul>
     </div>
   )
