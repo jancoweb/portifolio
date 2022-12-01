@@ -23,7 +23,7 @@ function About() {
               </p>
             </div>
             <div className='about-img'>
-              <img src="https://scontent.fssa7-1.fna.fbcdn.net/v/t1.6435-9/42996783_1722369997872926_1093889799053377536_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e0Xxmsr1CHcAX_3ayWq&_nc_ht=scontent.fssa7-1.fna&oh=00_AfDOzwrSHQ2JlNR5AcR2M3Q14JhovEJwl0OmbNBu8Otxmw&oe=63B015DC" alt="eu" />
+              {/* <img src="https://scontent.fssa7-1.fna.fbcdn.net/v/t1.6435-9/42996783_1722369997872926_1093889799053377536_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e0Xxmsr1CHcAX_3ayWq&_nc_ht=scontent.fssa7-1.fna&oh=00_AfDOzwrSHQ2JlNR5AcR2M3Q14JhovEJwl0OmbNBu8Otxmw&oe=63B015DC" alt="eu" /> */}
             </div>
           </div>
           <br />
