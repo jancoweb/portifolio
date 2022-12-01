@@ -3,9 +3,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 .about-text-wrapper{
   text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 p.headline {
   font-family: 'Fira code';
@@ -13,8 +18,7 @@ p.headline {
   font-size: 30px;
   margin-bottom: 25px;
 }
-.about-text-content {
-  width: 500px;
+.about-content {
   color: #b8c1ec;
   text-align: justify;
 }
@@ -25,7 +29,33 @@ p.about-text {
 .cubos {
   color: #eebbc3;
 }
+
+.about-img img {
+  width: 450px;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  background-color: rgba(18, 22, 41, 0.8);
+}
+.text {
+  width: 500px;
+  padding: 0 0 0 40px;
+}
+
 @media (max-width: 500px){
+  .content {
+    flex-direction: column;
+  }
+  .text {
+    width: 400px;
+    padding: 40px 0 0 0;
+  }
+  .about-img img {
+    display: none;
+  }
   .about-content-wrapper{
     margin: 0 20px;
   }

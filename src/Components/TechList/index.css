@@ -1,5 +1,5 @@
 .tech-list {
-  background-color: rgba(212, 216, 240, 0.8);
+  background-color: rgba(150, 152, 168, 0.8);
   border-radius: 4px;
   padding: 20px 10px;
   display: flex;
@@ -7,8 +7,10 @@
 }
 .tech-list ul {
   display: flex;
+  justify-content: space-around;
   list-style: none;
   gap: 10px;
+  width: 100%;
 }
 .tech-list img:hover {
   cursor: pointer;
