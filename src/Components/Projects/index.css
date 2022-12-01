@@ -81,4 +81,7 @@ p span.cubos {
   .project-text-content{
     margin: 0 0 10px 0;
   }
+  .project-wrapper {
+    margin-top: 150px;
+  }
 }
