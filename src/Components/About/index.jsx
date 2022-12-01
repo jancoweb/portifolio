@@ -23,7 +23,7 @@ function About() {
               </p>
             </div>
             <div className='about-img'>
-              <img src="https://i.imgur.com/zxVqPbt.jpg" alt="eu" />
+              <img src="https://i.imgur.com/TP1Ydv1.jpg" alt="eu" />
             </div>
           </div>
           <br />
