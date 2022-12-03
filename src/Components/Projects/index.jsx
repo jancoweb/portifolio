@@ -51,7 +51,7 @@ function Projects() {
             <span>React, Javascript</span>
             <br />
             <br />
-            <a href="https://github.com/j-efe/front-integral-m05-desafio-t06" target='blank'>Github front-end Repository</a>
+            <a href="https://github.com/jancoweb/rick-and-morty-page" target='blank'>Github Repository</a>
             <br />
             <br />
             <a href="https://rickandmorty-jancoweb.netlify.app/" target='blank'>Application live on Netlify!</a>
