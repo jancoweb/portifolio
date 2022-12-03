@@ -46,7 +46,7 @@ function Projects() {
           <div className="project-text-content">
             <h2 className="project-title">Rick and Morty App</h2>
             <p className="project-text">
-              I started this project to pratice ReactJS and third party API consumption. In this application allows you to find a specific Rick and Morty character by his name, search a random character or even see the full cast (826 characters).
+              This application allows you to find a specific Rick and Morty character by his name, search a random character or even see the full cast (826 characters).
             </p>
             <span>React, Javascript</span>
             <br />
