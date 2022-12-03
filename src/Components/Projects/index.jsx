@@ -21,7 +21,7 @@ function Projects() {
             <a href="https://github.com/jancoweb/your-todo-app-backend" target='blank'>Github back-end Repository</a>
           </div>
           <div className='project-img'>
-            <img src="https://i.imgur.com/eVr2zIi.png" alt="you-todo-app" />
+            <img src="https://i.imgur.com/sOgyhnf.png" alt="you-todo-app" />
           </div>
         </div>
         <div className="project right">
